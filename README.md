@@ -4,7 +4,7 @@ Tired of waiting for that great new product you just ordered online? Bamazon is 
 
 ## See How It Works
 
-![GitHub Logo](/shot1)
+![GitHub Logo](/shot1.png)
 Format: ![Alt Text](url)
 
 
